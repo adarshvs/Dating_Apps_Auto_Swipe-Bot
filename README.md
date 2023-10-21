@@ -5,6 +5,6 @@ python3 -m venv env
 
 source venv/bin/activate 
 
-pip install -r requirments.txt
+pip3 install -r requirments.txt
 
-python tinder_swipe_bot.py
+python3 tinder_swipe_bot.py
